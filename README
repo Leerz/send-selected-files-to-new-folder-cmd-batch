@@ -1,5 +1,8 @@
 README neebs
+elementary script - move selected files to a new folder (uses %1's name if none is provided)
+
+was sorting my files and i needed to move files and grouping relevant files to a new folder
 
 ctrl+r 
 shell:sendto
-and drop the cmd to your sendto
+drop the cmd to your sendto
