@@ -2,6 +2,7 @@ README neebs
 elementary script - move selected files to a new folder (uses %1's name if none is provided)
 
 was sorting my files and i needed to move files and grouping relevant files to a new folder
+could have used copy/xcopy/move or teracopy but had to do this in a few minutes lol
 
 ctrl+r 
 shell:sendto
